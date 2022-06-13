@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{B99EF467-279A-40C4-9D51-55969BBB8F29}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VehicleServicingTrack/Controllers/AuthController.cs">
+    <Files>
+      <File FileName="VehicleServicingTrack/Views/Auth/Signup.cshtml" Line="10" Column="15" />
+      <File FileName="VehicleServicingTrack/Views/Auth/Login.cshtml" />
+      <File FileName="VehicleServicingTrack/Views/Shared/_Layout.cshtml" />
+      <File FileName="VehicleServicingTrack/Controllers/AuthController.cs" Line="39" Column="29" />
+      <File FileName="VehicleServicingTrack/Views/Auth/Dashboard.cshtml" />
+      <File FileName="VehicleServicingTrack/Views/Auth/addvehicle.cshtml" />
+      <File FileName="VehicleServicingTrack/Views/Auth/addService.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VehicleServicingTrack" expanded="True">
+            <Node name="VehicleServicingTrack" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AuthController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Auth" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="img" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.VehicleServicingTrack PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
